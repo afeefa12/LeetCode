@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/afeefa12/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/afeefa12/LeetCode/tree/master/0069-sqrtx) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/afeefa12/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/afeefa12/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/afeefa12/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->
