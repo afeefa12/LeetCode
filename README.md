@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/afeefa12/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afeefa12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -50,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/afeefa12/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/afeefa12/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->
