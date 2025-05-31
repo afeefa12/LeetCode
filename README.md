@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/afeefa12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/afeefa12/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/afeefa12/LeetCode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/afeefa12/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afeefa12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/afeefa12/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/afeefa12/LeetCode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,9 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/afeefa12/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/afeefa12/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/afeefa12/LeetCode/tree/master/0049-group-anagrams) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/afeefa12/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/afeefa12/LeetCode/tree/master/0043-multiply-strings) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/afeefa12/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
