@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/afeefa12/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/afeefa12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afeefa12/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/afeefa12/LeetCode/tree/master/0136-single-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/afeefa12/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Simulation
 |  |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/afeefa12/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/afeefa12/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
