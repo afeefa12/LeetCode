@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/afeefa12/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/afeefa12/LeetCode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/afeefa12/LeetCode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/afeefa12/LeetCode/tree/master/0367-valid-perfect-square) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/afeefa12/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/afeefa12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/afeefa12/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/afeefa12/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/afeefa12/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
