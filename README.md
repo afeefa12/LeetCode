@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/afeefa12/LeetCode/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/afeefa12/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/afeefa12/LeetCode/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/afeefa12/LeetCode/tree/master/0326-power-of-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/afeefa12/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/afeefa12/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/afeefa12/LeetCode/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
